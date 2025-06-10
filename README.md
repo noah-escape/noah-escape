@@ -29,6 +29,7 @@
 <br/>
 
 <h3 align="center">💻 Backend 💻</h3>
+<p align="center">
 <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
   <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="40" />
@@ -53,22 +54,11 @@
   <a href="https://restfulapi.net/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/REST_API-61DAFB?style=for-the-badge&logo=rest&logoColor=black" alt="REST API" height="40" />
   </a>
+</p>
 </div>
 
-<h3 align="center">🛢️ Database 🛢️</h3>
-<p align="center">
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="40" />
-  </a>
-  <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" alt="JDBC" height="40" />
-  </a>
-  <a href="https://pymysql.readthedocs.io/en/latest/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/PyMySQL-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyMySQL" height="40" />
-  </a>
-</p>
-
 <h3 align="center">🌐 Frontend 🌐</h3>
+<p align="center">
 <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px; flex-wrap: wrap; max-width: 700px; margin-left: auto; margin-right: auto;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="40" />
@@ -93,9 +83,24 @@
   <a href="https://plotly.com/javascript/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" height="40" />
   </a>
+  </p>
 </div>
 
+<h3 align="center">🛢️ Database 🛢️</h3>
+<p align="center">
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="40" />
+  </a>
+  <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" alt="JDBC" height="40" />
+  </a>
+  <a href="https://pymysql.readthedocs.io/en/latest/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/PyMySQL-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyMySQL" height="40" />
+  </a>
+</p>
+
 <h3 align="center">🗺️ 외부 API 연동 🗺️</h3>
+<p align="center">
 <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px; flex-wrap: wrap; max-width: 700px; margin-left: auto; margin-right: auto;">
   <a href="https://data.seoul.go.kr/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Seoul_Bus-0099FF?style=for-the-badge&logo=bus&logoColor=white" alt="Seoul Bus" height="40" />
@@ -126,6 +131,7 @@
   <a href="#" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/RSS_News-FF6600?style=for-the-badge&logo=rss&logoColor=white" alt="RSS News" height="40" />
   </a>
+  </p>
 </div>
 
 <h3 align="center"> 시연 영상 </h3>
