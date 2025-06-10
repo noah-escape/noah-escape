@@ -6,7 +6,7 @@
 </div>
 <br/>
 
-<h3 align="center" style="font-weight: 800; font-size: 55px;">
+<h3 align="center" style="font-weight: 800; font-size: 15rem;">
   🏆 Most Used Languages 🏆
 </h3>
 <div align="center">
