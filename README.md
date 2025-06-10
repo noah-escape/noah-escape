@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=👋%20Hi,%20I'm%20HONG%20JUNG%20PYO!&fontSize=40&fontAlignY=40&desc=백엔드%20웹%20개발자%20|%20실시간%20교통정보%20서비스%20제작&descAlignY=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Team OnRoad&fontSize=40&fontAlignY=40&desc=풀스택%20웹%20개발자%20|%20실시간%20교통정보%20서비스%20제작&descAlignY=65&animation=fadeIn" />
 </p>
 
 <div align="center" style="font-weight: 800; font-size: 3rem; margin: 0;">
