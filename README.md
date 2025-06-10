@@ -1,9 +1,10 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-bottom: 40px;">
   <img src="https://github.com/user-attachments/assets/7985261a-cb22-4b6e-8837-594ff9289a38"" width="150" style="border-radius: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
-  <span style="color: #f57c00;">team OnRoad!</span>
+  <span style="color: #f57c00; text-decoration: none;">team OnRoad!</span>
   </h1>
 </div>
+<br/>
 
 ## 🏆 Most Used Languages
 <div align="center">
