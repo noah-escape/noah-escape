@@ -16,22 +16,6 @@
 
 ## 👥 팀원별 GitHub Stats
 
-<div align="center">
-
-| Name / ID | role | GitHub Stats |
-|-----------|-------------|--------------|
-| <div align="center"><img src="https://avatars.githubusercontent.com/u/83055772?v=4&s=72" width="72" height="72" style="border-radius:50%" alt="Hoooouuuuu" /><br><a href="https://github.com/Hoooouuuuu">Hoooouuuuu</a></div> | 로그인<br>회원가입<br>실시간 버스<br>교통사고 통계 시각화 | <div align="center">![Hoooouuuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoooouuuuu&show_icons=true&theme=github_dark)</div> |
-| <div align="center"><img src="https://avatars.githubusercontent.com/u/128485080?v=4&s=72" width="72" height="72" style="border-radius:50%" alt="noah-escape" /><br><a href="https://github.com/noah-escape">noah-escape</a></div> | CCTV<br>도로 돌발 이벤트<br>VSL(가변 속도 전광판) | <div align="center">![noah-escape's GitHub stats](https://github-readme-stats.vercel.app/api?username=noah-escape&show_icons=true&theme=github_dark)</div> |
-| <div align="center"><img src="https://avatars.githubusercontent.com/u/110499677?v=4&s=72" width="72" height="72" style="border-radius:50%" alt="dahyeon6433" /><br><a href="https://github.com/dahyeon6433">dahyeon6433</a></div> | 프론트 UI 디자인<br>게시판<br>주차장<br>날씨 | <div align="center">![dahyeon6433's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahyeon6433&show_icons=true&theme=github_dark)</div> |
-| <div align="center"><img src="https://avatars.githubusercontent.com/u/126768287?v=4&s=72" width="72" height="72" style="border-radius:50%" alt="HONGHONGPYO" /><br><a href="https://github.com/HONGHONGPYO">HONGHONGPYO</a></div> | 길찾기<br>자전거<br>지하철<br>뉴스 크롤링 (Python) | <div align="center">![HONGHONGPYO's GitHub stats](https://github-readme-stats.vercel.app/api?username=HONGHONGPYO&show_icons=true&theme=github_dark)</div> |
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🔧 기술 스택 🔧 
-
 ### 💻 Backend 💻
 
 <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
