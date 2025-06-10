@@ -23,10 +23,10 @@
   
 |  Name / ID   |  GitHub Stats  |
 |--------------|----------------|
-| Hoooouuuuu   | ![Hoooouuuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoooouuuuu&show_icons=true&theme=github_dark) |
-| dahyeon6433  | ![dahyeon6433's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahyeon6433&show_icons=true&theme=github_dark) |
-| HONGHONGPYO  | ![HONGHONGPYO's GitHub stats](https://github-readme-stats.vercel.app/api?username=HONGHONGPYO&show_icons=true&theme=github_dark) |
-| noah-escape  | ![noah-escape's GitHub stats](https://github-readme-stats.vercel.app/api?username=noah-escape&show_icons=true&theme=github_dark) |
+| <img src="https://github.com/Hoooouuuuu.png?size=40" width="40" height="40" style="border-radius:50%" alt="Hoooouuuuu" /> <br> Hoooouuuuu | ![Hoooouuuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoooouuuuu&show_icons=true&theme=github_dark) | <img src="https://github.com/dahyeon6433.png?size=40" width="40" height="40" style="border-radius:50%" alt="dahyeon6433" /> <br> dahyeon6433 | ![dahyeon6433's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahyeon6433&show_icons=true&theme=github_dark) |
+| <img src="https://github.com/HONGHONGPYO.png?size=40" width="40" height="40" style="border-radius:50%" alt="HONGHONGPYO" /> <br> HONGHONGPYO | ![HONGHONGPYO's GitHub stats](https://github-readme-stats.vercel.app/api?username=HONGHONGPYO&show_icons=true&theme=github_dark) | <img src="https://github.com/noah-escape.png?size=40" width="40" height="40" style="border-radius:50%" alt="noah-escape" /> <br> noah-escape | ![noah-escape's GitHub stats](https://github-readme-stats.vercel.app/api?username=noah-escape&show_icons=true&theme=github_dark) |
+
+</div>
 
 </div>
 
