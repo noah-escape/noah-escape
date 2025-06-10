@@ -6,7 +6,7 @@
 </div>
 <br/>
 
- 🏆 Most Used Languages
+<h3 align="center">🏆 Most Used Languages 🏆</h3>
 <div align="center">
   <!-- ex: GitHub readme stats 언어 비율 카드 (옵션) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoooouuuuu&repo=trafficRoad&layout=compact&theme=github_dark" height="220"/>
@@ -14,7 +14,7 @@
 
 <br/>
 
- 👥 팀원별 GitHub Stats
+<h3 align="center">👥 팀원별 GitHub Stats 👥</h3>
 
 <div align="center">
 
