@@ -14,9 +14,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoooouuuuu&repo=trafficRoad&layout=compact&theme=github_dark" style="width: 500px; height: auto; display: block;" />
   </div>
 </div>
+  
+<br/>
 
 <p align="center" style="margin:0;">
-  <span style="font-weight:700; font-size:3rem; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#1565c0;">
+  <span style="font-weight:700; font-size:10rem; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#1565c0;">
     🎤 프로젝트 소개 & 시연 영상 & 🎥
   </span>
 </p>
