@@ -19,8 +19,6 @@
 
 ## 👥 팀원별 GitHub Stats
 
-## 👥 팀원별 GitHub Stats
-
 <div align="center">
 
 | Name / ID | GitHub Stats | Name / ID | GitHub Stats |
