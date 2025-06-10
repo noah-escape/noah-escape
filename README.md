@@ -29,8 +29,8 @@
 <br/>
 
 <h3 align="center">💻 Backend 💻</h3>
-<div style="text-align:center; margin-bottom: 20px;">
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; max-width: 700px; margin: 0 auto;">
+<div style="text-align: center; max-width: 700px; margin: 0 auto;">
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="40" />
     </a>
@@ -41,7 +41,7 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40" />
     </a>
   </div>
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; max-width: 700px; margin: 10px auto 0;">
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="40" />
     </a>
