@@ -9,7 +9,10 @@
 <h3 align="center">🏆 Most Used Languages 🏆</h3>
 <div align="center">
   <!-- ex: GitHub readme stats 언어 비율 카드 (옵션) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoooouuuuu&repo=trafficRoad&layout=compact&theme=github_dark" height="220"/>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 900px; margin: 0 auto;">
+  <div style="flex: 1 1 45%; max-width: 45%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoooouuuuu&repo=trafficRoad&layout=compact&theme=github_dark" style="width: 100%; height: auto; display: block;" />
+  </div>
 </div>
 
 <br/>
