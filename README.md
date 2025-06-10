@@ -19,7 +19,7 @@
 <h3 align="center">👥 팀원별 GitHub Stats 👥</h3>
 
 <p align="center" style="margin: 0 0 15px 0;">
-  <a href="https://github.com/Hoooouuuuu" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px;">
+  <a href="https://github.com/Hoooouuuuu" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: -15px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Hoooouuuuu&show_icons=true&theme=dark" alt="Hoooouuuuu GitHub Stats" width="400" />
   </a>
   <a href="https://github.com/noah-escape" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
@@ -28,7 +28,7 @@
 </p>
 
 <p align="center" style="margin: 0;">
-  <a href="https://github.com/HONGHONGPYO" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 15px;">
+  <a href="https://github.com/HONGHONGPYO" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: -15px;">
     <img src="https://github-readme-stats.vercel.app/api?username=HONGHONGPYO&show_icons=true&theme=dark" alt="HONGHONGPYO GitHub Stats" width="400" />
   </a>
   <a href="https://github.com/dahyeon6433" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
