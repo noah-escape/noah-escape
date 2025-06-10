@@ -7,7 +7,9 @@
 <br/>
 
 <div align="center" style="font-weight: 800; font-size: 3rem; margin: 20px 0;">
+    <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
   🏆 Most Used Languages 🏆
+  </h1>
 </div>
 <div align="center">
   <!-- ex: GitHub readme stats 언어 비율 카드 (옵션) -->
