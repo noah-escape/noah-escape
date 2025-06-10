@@ -19,7 +19,7 @@
 
 <div align="center">
 
-| Name / ID | role | Name / ID | GitHub Stats |
+| Name / ID | role | GitHub Stats |
 |-----------|--------------|-----------|--------------|
 | <img src="https://avatars.githubusercontent.com/u/83055772?v=4&s=48" width="48" height="48" style="border-radius:50%" alt="Hoooouuuuu" /> <br> [Hoooouuuuu](https://github.com/Hoooouuuuu) | 로그인, 회원가입, 실시간 버스, 교통사고 통계 시각화 | ![Hoooouuuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoooouuuuu&show_icons=true&theme=github_dark) |
 | <img src="https://avatars.githubusercontent.com/u/128485080?v=4&s=48" width="48" height="48" style="border-radius:50%" alt="noah-escape" /> <br> [noah-escape](https://github.com/noah-escape) | CCTV, 도로 돌발 이벤트, VSL(가변 속도 전광판) | ![noah-escape's GitHub stats](https://github-readme-stats.vercel.app/api?username=noah-escape&show_icons=true&theme=github_dark) |
@@ -74,5 +74,6 @@
   <a href="https://velog.io/@YOUR_VELOG"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
   <a href="https://notion.so/YOUR_NOTION"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
   <a href="https://youtube.com/YOUR_CHANNEL" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="시연 영상" /></a>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="시연 영상" />
+</a>
 </p>
