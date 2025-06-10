@@ -3,7 +3,7 @@
 </p>
 
 
- ##### 🏆 Most Used Languages 🏆
+ # 🏆 Most Used Languages 🏆
 
 <div align="center">
   <!-- ex: GitHub readme stats 언어 비율 카드 (옵션) -->
