@@ -15,10 +15,11 @@
   </div>
 </div>
 
-<br/>
-<div align="center" style="font-weight: 700; font-size: 3rem; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #1565c0; margin: 0 0 20px 0;">
-   🎤 프로젝트 소개 & 시연 영상 & 🎥
-</div>
+<p align="center" style="margin:0;">
+  <span style="font-weight:700; font-size:3rem; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#1565c0;">
+    🎤 프로젝트 소개 & 시연 영상 & 🎥
+  </span>
+</p>
 <p align="center" style="margin: 0 0 0 0;">
   <a href="https://github.com/Hoooouuuuu" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 0;">
     <img src="https://github-readme-stats.vercel.app/api?username=Hoooouuuuu&show_icons=true&theme=dark" alt="Hoooouuuuu GitHub Stats" width="400" />
