@@ -1,8 +1,8 @@
 <div align="center">
-  <picture>
-    <img src="https://github.com/user-attachments/assets/7985261a-cb22-4b6e-8837-594ff9289a38" alt="We are team onRoad!" width="350"/>
-  </picture>
-  <h1>프로젝트명 (예: Noah Traffic Dashboard)</h1>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/7985261a-cb22-4b6e-8837-594ff9289a38" alt="We are team OnRoad!" width="350" />
+  <span style="font-size: 1.2rem; font-weight: bold;">We are team OnRoad!</span>
+</div>
 </div>
 
 <br/>
