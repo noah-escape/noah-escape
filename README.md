@@ -1,42 +1,4 @@
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-<meta charset="UTF-8" />
-<title>Team On_Road Title</title>
-<style>
-  .title-container {
-    position: relative;
-    width: 400px;  /* 필요에 따라 조절 */
-    height: 80px;
-    font-family: Arial, sans-serif;
-    font-weight: bold;
-    font-size: 24px;
-    color: #333;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .title-container::before {
-    content: "";
-    position: absolute;
-    top: 0; left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(219, 112, 147, 0.5); /* 연한 분홍, 투명도 50% */
-    clip-path: polygon(0 0, 100% 0, 100% 100%);
-    z-index: -1;
-  }
-</style>
-</head>
-<body>
-
-<div class="title-container">
-  Team On_Road
-</div>
-
-</body>
-</html>
+![header](https://capsule-render.vercel.app/api?type=slice)
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-bottom: 40px;">
   <img src="https://github.com/user-attachments/assets/7985261a-cb22-4b6e-8837-594ff9289a38"" width="150" style="border-radius: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
