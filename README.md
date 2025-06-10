@@ -4,7 +4,6 @@
   <span style="color: #f57c00;">team OnRoad!</span>
   </h1>
 </div>
-<br/>
 
 ## 🏆 Most Used Languages
 <div align="center">
