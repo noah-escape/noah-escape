@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Team%20OnRoad&fontSize=80&fontAlignY=40&desc=풀스택%20웹%20개발자%20|%20실시간%20교통정보%20서비스%20제작&descAlignY=65&animation=fadeIn" />
 </p>
 
-
+<p align="center">
  # 🏆 Most Used Languages 🏆
-
+</p>
 <div align="center">
   <!-- ex: GitHub readme stats 언어 비율 카드 (옵션) -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 400px; margin: 0 auto;">
@@ -15,9 +15,9 @@
   
 <br/>
 
-<h1 align="center" style="margin:0; font-weight:700; font-size:2.5rem; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#1565c0;">
-  🎤 프로젝트 소개 & 시연 영상 & 🎥
-</h1>
+<p align="center">
+  # 🎤 프로젝트 소개 & 시연 영상 & 🎥
+</p>
 <p align="center" style="margin: 0 0 0 0;">
   <a href="https://github.com/Hoooouuuuu" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 0;">
     <img src="https://github-readme-stats.vercel.app/api?username=Hoooouuuuu&show_icons=true&theme=dark" alt="Hoooouuuuu GitHub Stats" width="400" />
@@ -38,10 +38,9 @@
 
 <br/>
 
-<div align="center" style="font-weight: 800; font-size: 2.5rem; margin: 0;">
-  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
-   💻 Backend 💻
-  </h1>
+<p align="center">
+ # 💻 Backend 💻
+</p>
 </div>
 <p align="center">
   <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
@@ -69,10 +68,9 @@
   </a>
 </p>
     
-<div align="center" style="font-weight: 800; font-size: 2.5rem; margin: 0;">
-  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
-   🌐 Frontend 🌐
-  </h1>
+  <p align="center">
+   # 🌐 Frontend 🌐
+  </p>
 </div>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
@@ -99,10 +97,10 @@
     <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" height="40" />
   </a>
 </p>
-<div align="center" style="font-weight: 800; font-size: 2.5rem; margin: 0;">
-  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
-   🛢️ Database 🛢️
-  </h1>
+
+  <p align="center">
+  # 🛢️ Database 🛢️
+  </p>
 </div>
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
@@ -116,10 +114,9 @@
   </a>
 </p>
     
-<div align="center" style="font-weight: 800; font-size: 2.5rem; margin: 0;">
-  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
-   🗺️ 외부 API 연동 🗺️
-  </h1>
+  <p align="center">
+  # 🗺️ 외부 API 연동 🗺️
+  </p>
 </div>
 <p align="center">
   <a href="https://data.seoul.go.kr/" target="_blank" rel="noopener noreferrer">
@@ -155,11 +152,10 @@
   </a>
 </p>
 
-<div align="center" style="font-weight: 800; font-size: 2.5rem; margin: 0;">
-  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
-   🎤 프로젝트 소개 & 시연 영상 & 🎥
-  </h1>
-</div>
+  <p align="center">
+  # 🎤 프로젝트 소개 & 시연 영상 & 🎥
+  </p>
+  </div>
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://screeching-honesty-e2e.notion.site/ON-ROAD-20dd183a8d3e8030b26ff596d63e44b8" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" width="175" />
