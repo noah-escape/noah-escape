@@ -19,8 +19,10 @@
 
 <h3 align="center">👥 팀원별 GitHub Stats 👥</h3>
 
-<div style="max-width: 900px; margin: 0 auto;">
-  <!-- 첫 번째 줄 (1, 2) -->
+<h3 align="center">👥 팀원별 GitHub Stats 👥</h3>
+
+<div style="max-width: 600px; margin: 0 auto;">
+  <!-- 첫 번째 줄 -->
   <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
     <div style="flex: 1 1 48%; max-width: 280px;">
       <img src="https://github-readme-stats.vercel.app/api?username=Hoooouuuuu&show_icons=true&theme=dark" alt="Hoooouuuuu GitHub Stats" style="width: 100%; height: auto; display: block;" />
@@ -30,7 +32,7 @@
     </div>
   </div>
 
-  <!-- 두 번째 줄 (3, 4) -->
+  <!-- 두 번째 줄 -->
   <div style="display: flex; justify-content: center; gap: 20px;">
     <div style="flex: 1 1 48%; max-width: 280px;">
       <img src="https://github-readme-stats.vercel.app/api?username=HONGHONGPYO&show_icons=true&theme=dark" alt="HONGHONGPYO GitHub Stats" style="width: 100%; height: auto; display: block;" />
@@ -40,6 +42,7 @@
     </div>
   </div>
 </div>
+
 <br/>
 
 <h3 align="center">💻 Backend 💻</h3>
