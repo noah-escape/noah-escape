@@ -19,21 +19,25 @@
 
 <h3 align="center">👥 팀원별 GitHub Stats 👥</h3>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 900px; margin: 0 auto;">
-  <div style="flex: 1 1 48%; max-width: 280px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hoooouuuuu&show_icons=true&theme=dark" alt="Hoooouuuuu GitHub Stats" style="width: 320px; height: auto; display: block;" />
+<div style="max-width: 900px; margin: 0 auto;">
+  <!-- 첫 번째 줄 (1, 2) -->
+  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+    <div style="flex: 1 1 48%; max-width: 280px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Hoooouuuuu&show_icons=true&theme=dark" alt="Hoooouuuuu GitHub Stats" style="width: 100%; height: auto; display: block;" />
+    </div>
+    <div style="flex: 1 1 48%; max-width: 280px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=noah-escape&show_icons=true&theme=radical" alt="noah-escape GitHub Stats" style="width: 100%; height: auto; display: block;" />
+    </div>
   </div>
 
-  <div style="flex: 1 1 48%; max-width: 280px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=noah-escape&show_icons=true&theme=radical" alt="noah-escape GitHub Stats" style="width: 320px; height: auto; display: block;" />
-  </div>
-
-  <div style="flex: 1 1 48%; max-width: 280px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=HONGHONGPYO&show_icons=true&theme=dark" alt="HONGHONGPYO GitHub Stats" style="width: 320px; height: auto; display: block;" />
-  </div>
-
-  <div style="flex: 1 1 48%; max-width: 280px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=dahyeon6433&show_icons=true&theme=dark" alt="dahyeon6433 GitHub Stats" style="width: 320px; height: auto; display: block;" />
+  <!-- 두 번째 줄 (3, 4) -->
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <div style="flex: 1 1 48%; max-width: 280px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=HONGHONGPYO&show_icons=true&theme=dark" alt="HONGHONGPYO GitHub Stats" style="width: 100%; height: auto; display: block;" />
+    </div>
+    <div style="flex: 1 1 48%; max-width: 280px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=dahyeon6433&show_icons=true&theme=dark" alt="dahyeon6433 GitHub Stats" style="width: 100%; height: auto; display: block;" />
+    </div>
   </div>
 </div>
 <br/>
