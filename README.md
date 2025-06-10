@@ -9,7 +9,7 @@
 <h3 align="center">🏆 Most Used Languages 🏆</h3>
 <div align="center">
   <!-- ex: GitHub readme stats 언어 비율 카드 (옵션) -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 900px; margin: 0 auto;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 500px; margin: 0 auto;">
   <div style="flex: 1 1 45%; max-width: 45%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoooouuuuu&repo=trafficRoad&layout=compact&theme=github_dark" style="width: 100%; height: auto; display: block;" />
   </div>
@@ -20,19 +20,19 @@
 
 <p align="center">
   <a href="https://github.com/Hoooouuuuu" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hoooouuuuu&show_icons=true&theme=dark" alt="Hoooouuuuu GitHub Stats" width="280" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Hoooouuuuu&show_icons=true&theme=dark" alt="Hoooouuuuu GitHub Stats" width="350" />
   </a>
   <a href="https://github.com/noah-escape" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=noah-escape&show_icons=true&theme=radical" alt="noah-escape GitHub Stats" width="280" />
+    <img src="https://github-readme-stats.vercel.app/api?username=noah-escape&show_icons=true&theme=radical" alt="noah-escape GitHub Stats" width="350" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/HONGHONGPYO" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=HONGHONGPYO&show_icons=true&theme=dark" alt="HONGHONGPYO GitHub Stats" width="280" />
+    <img src="https://github-readme-stats.vercel.app/api?username=HONGHONGPYO&show_icons=true&theme=dark" alt="HONGHONGPYO GitHub Stats" width="350" />
   </a>
   <a href="https://github.com/dahyeon6433" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=dahyeon6433&show_icons=true&theme=dark" alt="dahyeon6433 GitHub Stats" width="280" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dahyeon6433&show_icons=true&theme=dark" alt="dahyeon6433 GitHub Stats" width="350" />
   </a>
 </p>
 
