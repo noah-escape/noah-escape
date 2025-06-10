@@ -16,10 +16,8 @@
 </div>
 
 <br/>
-<div align="center" style="font-weight: 800; font-size: 2.5rem; margin: 0;">
-  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
-  👥 팀원별 GitHub Stats 👥
-  </h1>
+<div align="center" style="font-weight: 700; font-size: 3rem; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #1565c0; margin: 0 0 20px 0;">
+   🎤 프로젝트 소개 & 시연 영상 & 🎥
 </div>
 <p align="center" style="margin: 0 0 0 0;">
   <a href="https://github.com/Hoooouuuuu" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 0;">
