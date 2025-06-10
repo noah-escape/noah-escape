@@ -12,7 +12,7 @@
 ## 🏆 Most Used Languages
 <div align="center">
   <!-- ex: GitHub readme stats 언어 비율 카드 (옵션) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=github_dark" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoooouuuuu&repo=trafficRoad&layout=compact&theme=github_dark" height="130"/>
 </div>
 
 <br/>
