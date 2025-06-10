@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Team%20OnRoad&fontSize=80&fontAlignY=40&desc=풀스택%20웹%20개발자%20|%20실시간%20교통정보%20서비스%20제작&descAlignY=65&animation=fadeIn" />
 </p>
 
-<div align="center" style="font-weight: 800; font-size: 3rem; margin: 0;">
+<div align="center" style="font-weight: 800; font-size: 2.5rem; margin: 0;">
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
   🏆 Most Used Languages 🏆
   </h1>
@@ -10,13 +10,13 @@
 <div align="center">
   <!-- ex: GitHub readme stats 언어 비율 카드 (옵션) -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 400px; margin: 0 auto;">
-  <div style="flex: 1 1 300px; max-width: 300px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoooouuuuu&repo=trafficRoad&layout=compact&theme=github_dark" style="width: 300px; height: auto; display: block;" />
+  <div style="flex: 1 1 500; max-width: 500px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoooouuuuu&repo=trafficRoad&layout=compact&theme=github_dark" style="width: 500px; height: auto; display: block;" />
   </div>
 </div>
 
 <br/>
-<div align="center" style="font-weight: 800; font-size: 3rem; margin: 0;">
+<div align="center" style="font-weight: 800; font-size: 2.5rem; margin: 0;">
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
   👥 팀원별 GitHub Stats 👥
   </h1>
@@ -41,7 +41,7 @@
 
 <br/>
 
-<div align="center" style="font-weight: 800; font-size: 3rem; margin: 0;">
+<div align="center" style="font-weight: 800; font-size: 2.5rem; margin: 0;">
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
    💻 Backend 💻
   </h1>
@@ -72,7 +72,7 @@
   </a>
 </p>
     
-<div align="center" style="font-weight: 800; font-size: 3rem; margin: 0;">
+<div align="center" style="font-weight: 800; font-size: 2.5rem; margin: 0;">
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
    🌐 Frontend 🌐
   </h1>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" height="40" />
   </a>
 </p>
-<div align="center" style="font-weight: 800; font-size: 3rem; margin: 0;">
+<div align="center" style="font-weight: 800; font-size: 2.5rem; margin: 0;">
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
    🛢️ Database 🛢️
   </h1>
@@ -119,7 +119,7 @@
   </a>
 </p>
     
-<div align="center" style="font-weight: 800; font-size: 3rem; margin: 0;">
+<div align="center" style="font-weight: 800; font-size: 2.5rem; margin: 0;">
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
    🗺️ 외부 API 연동 🗺️
   </h1>
@@ -158,7 +158,7 @@
   </a>
 </p>
 
-<div align="center" style="font-weight: 800; font-size: 3rem; margin: 0;">
+<div align="center" style="font-weight: 800; font-size: 2.5rem; margin: 0;">
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
    🎤 프로젝트 소개 & 시연 영상 & 🎥
   </h1>
