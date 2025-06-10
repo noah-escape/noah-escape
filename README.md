@@ -95,8 +95,6 @@
     <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" alt="JDBC" height="40" />
     </a>
-  </div>
-  <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap; max-width:700px; margin:10px auto 0;">
     <a href="https://pymysql.readthedocs.io/en/latest/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/PyMySQL-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyMySQL" height="40" />
     </a>
@@ -104,7 +102,7 @@
 </div>
 
 <h3 align="center">🗺️ 외부 API 연동 🗺️</h3>
-<div style="text-align:center; margin-bottom: 20px;">
+<div style="text-align:center; margin-bottom: 10px;">
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; max-width: 700px; margin: 0 auto;">
     <a href="https://data.seoul.go.kr/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Seoul_Bus-0099FF?style=for-the-badge&logo=bus&logoColor=white" alt="Seoul Bus" height="40" />
@@ -115,17 +113,19 @@
     <a href="https://www.bikeseoul.com/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Dareungi_Bike-7BC043?style=for-the-badge&logo=bicycle&logoColor=white" alt="Dareungi Bike" height="40" />
     </a>
+  </div>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; max-width: 700px; margin: 10px auto 0;">
     <a href="#" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Parking_API-008080?style=for-the-badge&logo=parking&logoColor=white" alt="Parking API" height="40" />
     </a>
-  </div>
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; max-width: 700px; margin: 10px auto 0;">
     <a href="#" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/ITS_API-FF6F61?style=for-the-badge&logo=car&logoColor=white" alt="ITS API" height="40" />
     </a>
     <a href="https://navermaps.github.io/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Naver_Maps-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Maps" height="40" />
     </a>
+  </div>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; max-width: 700px; margin: 10px auto 0;">
     <a href="https://apis.map.kakao.com/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Kakao_Maps-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black" alt="Kakao Maps" height="40" />
     </a>
