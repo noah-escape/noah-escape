@@ -1,7 +1,9 @@
-## Hi there 👋
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c5b82e24-33e5-48ed-92bf-db86f7946ac6" />
+  <picture>
+    <source srcset="https://github.com/user-attachments/assets/c5b82e24-33e5-48ed-92bf-db86f7946ac6" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github.com/user-attachments/assets/a002f20b-9c40-42dd-94d9-d8eb973f6e55" media="(prefers-color-scheme: light)">
+    <img src="https://github.com/user-attachments/assets/a002f20b-9c40-42dd-94d9-d8eb973f6e55" alt="Welcome to Noah World!"/>
+  </picture>
 </div>
 
 <!--
