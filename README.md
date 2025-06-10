@@ -6,9 +6,9 @@
 </div>
 <br/>
 
-<h3 align="center" style="font-weight: 800; font-size: 15rem;">
+<div align="center" style="font-weight: 800; font-size: 3rem;">
   🏆 Most Used Languages 🏆
-</h3>
+</div>
 <div align="center">
   <!-- ex: GitHub readme stats 언어 비율 카드 (옵션) -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 500px; margin: 0 auto;">
