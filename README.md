@@ -29,34 +29,6 @@
 <br/>
 
 <h3 align="center">💻 Backend 💻</h3>
-
-<p align="center">
-  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="40" />
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" height="40" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="40" />
-  </a>
-  <a href="https://oauth.net/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth" height="40" />
-  </a>
-  <a href="https://mail.google.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40" />
-  </a>
-  <a href="https://restfulapi.net/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/REST_API-61DAFB?style=for-the-badge&logo=rest&logoColor=black" alt="REST API" height="40" />
-  </a>
-</p>
-
-<h3 align="center">💻 Backend 💻</h3>
 <p align="center">
   <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="40" />
@@ -159,7 +131,7 @@
 </p>
 
 
-<h3 align="center"> 🎥 시연 영상 </h3>
+<h3 align="center"> 🎥 시연 영상 🎥 </h3>
 <div align="center">
   <a href="https://youtube.com/YOUR_CHANNEL" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" width="180" />
