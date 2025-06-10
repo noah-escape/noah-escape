@@ -13,8 +13,6 @@
 </div>
 
 <br/>
-[https://github-readme-stats.vercel.app/api/top-langs/?username=Hoooouuuuu&repo=trafficRoad&layout=compact&theme=github_dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoooouuuuu&repo=trafficRoad&layout=compact&theme=github_dark
-)
 
 <h3 align="center">👥 팀원별 GitHub Stats 👥</h3>
 
