@@ -1,8 +1,6 @@
 <div align="center">
   <picture>
-    <source srcset="https://github.com/user-attachments/assets/c5b82e24-33e5-48ed-92bf-db86f7946ac6" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github.com/user-attachments/assets/a002f20b-9c40-42dd-94d9-d8eb973f6e55" media="(prefers-color-scheme: light)">
-    <img src="https://github.com/user-attachments/assets/a002f20b-9c40-42dd-94d9-d8eb973f6e55" alt="Welcome to ROAD TRAFFIC!" width="350"/>
+    <img src="https://github.com/user-attachments/assets/7985261a-cb22-4b6e-8837-594ff9289a38" alt="We are team onRoad!" width="350"/>
   </picture>
   <h1>프로젝트명 (예: Noah Traffic Dashboard)</h1>
 </div>
@@ -75,5 +73,6 @@
   <a href="https://github.com/ORG_OR_USER/REPO"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://velog.io/@YOUR_VELOG"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
   <a href="https://notion.so/YOUR_NOTION"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-  <a href="https://youtube.com/YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+  <a href="https://youtube.com/YOUR_CHANNEL" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="시연 영상" /></a>
 </p>
