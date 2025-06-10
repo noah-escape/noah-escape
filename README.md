@@ -134,14 +134,7 @@
   </div>
 </div>
 
-<h3 align="center">🎥 시연 영상</h3>
-<div align="center" style="margin-top: 20px;">
-  <a href="https://www.youtube.com/channel/yourchannel" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="40" />
-  </a>
-</div>
-
-<h3 align="center"> 시연 영상 </h3>
+<h3 align="center"> 🎥 시연 영상 </h3>
 <div align="center">
   <a href="https://youtube.com/YOUR_CHANNEL" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" width="180" />
