@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="![logo-dark](https://github.com/user-attachments/assets/c5b82e24-33e5-48ed-92bf-db86f7946ac6)
-"  />
+  <img src="https://github.com/user-attachments/assets/c5b82e24-33e5-48ed-92bf-db86f7946ac6" />
 </div>
 
 <!--
