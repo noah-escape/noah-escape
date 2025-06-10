@@ -18,7 +18,8 @@
 <br/>
 <h3 align="center">👥 팀원별 GitHub Stats 👥</h3>
 
-<p align="center">
+
+<p align="center" style="margin-top: 5px;">
   <a href="https://github.com/Hoooouuuuu" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api?username=Hoooouuuuu&show_icons=true&theme=dark" alt="Hoooouuuuu GitHub Stats" width="400" />
   </a>
@@ -26,8 +27,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=noah-escape&show_icons=true&theme=radical" alt="noah-escape GitHub Stats" width="400" />
   </a>
 </p>
-
-<p align="center">
+<p align="center" style="margin-top: 5px;">
   <a href="https://github.com/HONGHONGPYO" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api?username=HONGHONGPYO&show_icons=true&theme=dark" alt="HONGHONGPYO GitHub Stats" width="400" />
   </a>
