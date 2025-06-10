@@ -11,7 +11,7 @@
   <!-- ex: GitHub readme stats 언어 비율 카드 (옵션) -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 400px; margin: 0 auto;">
   <div style="flex: 1 1 300px; max-width: 300px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoooouuuuu&repo=trafficRoad&layout=compact&theme=github_dark" style="width: 100%; height: auto; display: block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoooouuuuu&repo=trafficRoad&layout=compact&theme=github_dark" style="width: 300px; height: auto; display: block;" />
   </div>
 </div>
 
@@ -167,7 +167,7 @@
   <a href="https://screeching-honesty-e2e.notion.site/ON-ROAD-20dd183a8d3e8030b26ff596d63e44b8" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" width="175" />
   </a>
-  <a href="https://www.youtube.com/watch?v=Tf8LIYXqivo" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.youtube.com/watch?v=XCrXzT-H2WQ&feature=youtu.be" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" width="180" />
   </a>
 </div>
