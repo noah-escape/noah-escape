@@ -20,7 +20,7 @@
 <div align="center">
 
 | Name / ID | role | GitHub Stats |
-|-----------|--------------|-----------|--------------|
+|-----------|-----------|--------------|
 | <img src="https://avatars.githubusercontent.com/u/83055772?v=4&s=48" width="48" height="48" style="border-radius:50%" alt="Hoooouuuuu" /> <br> [Hoooouuuuu](https://github.com/Hoooouuuuu) | 로그인, 회원가입, 실시간 버스, 교통사고 통계 시각화 | ![Hoooouuuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoooouuuuu&show_icons=true&theme=github_dark) |
 | <img src="https://avatars.githubusercontent.com/u/128485080?v=4&s=48" width="48" height="48" style="border-radius:50%" alt="noah-escape" /> <br> [noah-escape](https://github.com/noah-escape) | CCTV, 도로 돌발 이벤트, VSL(가변 속도 전광판) | ![noah-escape's GitHub stats](https://github-readme-stats.vercel.app/api?username=noah-escape&show_icons=true&theme=github_dark) |
 | <img src="https://avatars.githubusercontent.com/u/110499677?v=4&s=48" width="48" height="48" style="border-radius:50%" alt="dahyeon6433" /> <br> [dahyeon6433](https://github.com/dahyeon6433) | 프론트 UI 디자인, 게시판, 주차장, 날씨 | ![dahyeon6433's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahyeon6433&show_icons=true&theme=github_dark) |
