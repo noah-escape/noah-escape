@@ -34,38 +34,57 @@
 
 ### 💻 Backend
 
-- Java (Spring Boot)  
-- Python (Flask)  
-- OAuth 2.0 로그인 (Naver, Kakao, Google)  
-- Gmail SMTP 메일 발송 기능  
-- RESTful API 설계 및 통신  
-- 환경 변수 관리: `.env`, `application.properties`  
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)  
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)  
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)  
+[![OAuth](https://img.shields.io/badge/OAuth-000000?style=flat-square&logo=oauth&logoColor=white)](https://oauth.net/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/)  
+[![REST API](https://img.shields.io/badge/REST_API-61DAFB?style=flat-square&logo=rest&logoColor=black)](https://restfulapi.net/)
+
+---
 
 ### 🛢️ Database
 
-- MySQL  
-- Java: JDBC / Python: PyMySQL  
-- 로컬 환경 (포트 3306)  
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)  
+[![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white)](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)  
+[![PyMySQL](https://img.shields.io/badge/PyMySQL-3776AB?style=flat-square&logo=python&logoColor=white)](https://pymysql.readthedocs.io/en/latest/)
+
+---
 
 ### 🌐 Frontend
 
-- HTML, CSS, JavaScript  
-- 지도 시각화: Naver Maps API, Kakao Map API  
-- 실시간 위치 마커 표시  
-- 차트 시각화: matplotlib, Plotly.js  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![Naver Maps](https://img.shields.io/badge/Naver_Maps-03C75A?style=flat-square&logo=naver&logoColor=white)](https://navermaps.github.io/)  
+[![Kakao Map](https://img.shields.io/badge/Kakao_Map-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black)](https://apis.map.kakao.com/)  
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)](https://matplotlib.org/)  
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com/javascript/)
+
+---
 
 ### 🗺️ 외부 API 연동
 
-- 교통: 서울시 버스, 지하철, 자전거(따릉이), 주차장, ITS 도로 정보 API  
-- 지도: Naver Maps, Kakao Maps (장소 검색 포함)  
-- 날씨: 기상청(KMA), RSS 기반 날씨 뉴스  
+[![Seoul Bus](https://img.shields.io/badge/Seoul_Bus-0099FF?style=flat-square&logo=bus&logoColor=white)](https://data.seoul.go.kr/)  
+[![Seoul Subway](https://img.shields.io/badge/Seoul_Subway-FFD400?style=flat-square&logo=subway&logoColor=black)](https://data.seoul.go.kr/)  
+[![Dareungi Bike](https://img.shields.io/badge/Dareungi_Bike-7BC043?style=flat-square&logo=bicycle&logoColor=white)](https://www.bikeseoul.com/)  
+[![Parking API](https://img.shields.io/badge/Parking_API-008080?style=flat-square&logo=parking&logoColor=white)](#)  
+[![ITS API](https://img.shields.io/badge/ITS_API-FF6F61?style=flat-square&logo=car&logoColor=white)](#)  
+[![Naver Maps](https://img.shields.io/badge/Naver_Maps-03C75A?style=flat-square&logo=naver&logoColor=white)](https://navermaps.github.io/)  
+[![Kakao Maps](https://img.shields.io/badge/Kakao_Maps-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black)](https://apis.map.kakao.com/)  
+[![KMA Weather](https://img.shields.io/badge/KMA_Weather-004D99?style=flat-square&logo=weather&logoColor=white)](https://www.kma.go.kr/)  
+[![RSS News](https://img.shields.io/badge/RSS_News-FF6600?style=flat-square&logo=rss&logoColor=white)](#)
+
+---
 
 ### ⚙️ 환경 및 시스템 구성
 
-- Spring Boot 서버 (포트 8080)  
-- Flask 시각화 서버 (포트 5001)  
-- 프론트엔드와 Flask는 iframe 방식으로 통합  
-- `.env` 파일 및 프로퍼티 설정을 통한 키 관리  
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)  
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)  
+[![Env](https://img.shields.io/badge/.env-F6E05E?style=flat-square&logo=docker&logoColor=black)](#)  
+[![Application Properties](https://img.shields.io/badge/application.properties-007ACC?style=flat-square&logo=microsoftazure&logoColor=white)](#)
 
 ## 🔗 팀 협업/외부 링크
 
