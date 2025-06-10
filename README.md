@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<div align="center">
+  <img src="![logo-dark](https://github.com/user-attachments/assets/c5b82e24-33e5-48ed-92bf-db86f7946ac6)
+"  />
+</div>
+
 <!--
 **noah-escape/noah-escape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
