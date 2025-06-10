@@ -16,9 +16,6 @@
 </div>
 
 <br/>
-
-<h3 align="center">👥 팀원별 GitHub Stats 👥</h3>
-
 <h3 align="center">👥 팀원별 GitHub Stats 👥</h3>
 
 <div style="max-width: 600px; margin: 0 auto;">
