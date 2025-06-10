@@ -135,5 +135,6 @@
 <div align="center">
   <a href="https://youtube.com/YOUR_CHANNEL" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" width="180" />
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" width="180" />
   </a>
 </div>
