@@ -61,9 +61,6 @@
   <a href="https://oauth.net/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth" height="40" />
   </a>
-  <a href="https://mail.google.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40" />
-  </a>
   <a href="https://restfulapi.net/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/REST_API-61DAFB?style=for-the-badge&logo=rest&logoColor=black" alt="REST API" height="40" />
   </a>
@@ -124,6 +121,9 @@
 <p align="center">
   <a href="#" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Parking_API-008080?style=for-the-badge&logo=parking&logoColor=white" alt="Parking API" height="40" />
+  </a>
+  <a href="https://mail.google.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40" />
   </a>
   <a href="#" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/ITS_API-FF6F61?style=for-the-badge&logo=car&logoColor=white" alt="ITS API" height="40" />
