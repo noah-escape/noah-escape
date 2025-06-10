@@ -2,10 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Team%20OnRoad&fontSize=80&fontAlignY=40&desc=풀스택%20웹%20개발자%20|%20실시간%20교통정보%20서비스%20제작&descAlignY=65&animation=fadeIn" />
 </p>
 
-<div align="center" style="font-weight: 800; font-size: 2.5rem; margin: 0;">
-  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
-  🏆 Most Used Languages 🏆
-  </h1>
+
+ ### 🏆 Most Used Languages 🏆
 
 <div align="center">
   <!-- ex: GitHub readme stats 언어 비율 카드 (옵션) -->
@@ -17,7 +15,7 @@
   
 <br/>
 
-<h1 align="center" style="margin:0; font-weight:700; font-size:3rem; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#1565c0;">
+<h1 align="center" style="margin:0; font-weight:700; font-size:2.5rem; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#1565c0;">
   🎤 프로젝트 소개 & 시연 영상 & 🎥
 </h1>
 <p align="center" style="margin: 0 0 0 0;">
