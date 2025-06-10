@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Team%20OnRoad&fontSize=80&fontAlignY=40&desc=풀스택%20웹%20개발자%20|%20실시간%20교통정보%20서비스%20제작&descAlignY=65&animation=fadeIn" />
 </p>
 
-<p align="center">
- # 🏆 Most Used Languages 🏆
+<p align="center" style="font-size: 3rem; font-weight: 700; margin: 0;">
+  🏆 Most Used Languages 🏆
 </p>
 <div align="center">
   <!-- ex: GitHub readme stats 언어 비율 카드 (옵션) -->
