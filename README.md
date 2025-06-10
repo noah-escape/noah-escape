@@ -19,14 +19,14 @@
 
 ## 👥 팀원별 GitHub Stats
 
-<div align="center">
-  
-|  Name / ID   |  GitHub Stats  |
-|--------------|----------------|
-| <img src="https://github.com/Hoooouuuuu.png?size=40" width="40" height="40" style="border-radius:50%" alt="Hoooouuuuu" /> <br> Hoooouuuuu | ![Hoooouuuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoooouuuuu&show_icons=true&theme=github_dark) | <img src="https://github.com/dahyeon6433.png?size=40" width="40" height="40" style="border-radius:50%" alt="dahyeon6433" /> <br> dahyeon6433 | ![dahyeon6433's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahyeon6433&show_icons=true&theme=github_dark) |
-| <img src="https://github.com/HONGHONGPYO.png?size=40" width="40" height="40" style="border-radius:50%" alt="HONGHONGPYO" /> <br> HONGHONGPYO | ![HONGHONGPYO's GitHub stats](https://github-readme-stats.vercel.app/api?username=HONGHONGPYO&show_icons=true&theme=github_dark) | <img src="https://github.com/noah-escape.png?size=40" width="40" height="40" style="border-radius:50%" alt="noah-escape" /> <br> noah-escape | ![noah-escape's GitHub stats](https://github-readme-stats.vercel.app/api?username=noah-escape&show_icons=true&theme=github_dark) |
+## 👥 팀원별 GitHub Stats
 
-</div>
+<div align="center">
+
+| Name / ID | GitHub Stats | Name / ID | GitHub Stats |
+|-----------|--------------|-----------|--------------|
+| <img src="https://avatars.githubusercontent.com/u/83055772?v=4&s=40" width="40" height="40" style="border-radius:50%" alt="Hoooouuuuu" /> <br> Hoooouuuuu | ![Hoooouuuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoooouuuuu&show_icons=true&theme=github_dark) | <img src="https://avatars.githubusercontent.com/u/110499677?v=4&s=40" width="40" height="40" style="border-radius:50%" alt="dahyeon6433" /> <br> dahyeon6433 | ![dahyeon6433's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahyeon6433&show_icons=true&theme=github_dark) |
+| <img src="https://avatars.githubusercontent.com/u/126768287?v=4&s=40" width="40" height="40" style="border-radius:50%" alt="HONGHONGPYO" /> <br> HONGHONGPYO | ![HONGHONGPYO's GitHub stats](https://github-readme-stats.vercel.app/api?username=HONGHONGPYO&show_icons=true&theme=github_dark) | <img src="https://avatars.githubusercontent.com/u/128485080?v=4&s=40" width="40" height="40" style="border-radius:50%" alt="noah-escape" /> <br> noah-escape | ![noah-escape's GitHub stats](https://github-readme-stats.vercel.app/api?username=noah-escape&show_icons=true&theme=github_dark) |
 
 </div>
 
