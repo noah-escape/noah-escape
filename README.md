@@ -6,7 +6,7 @@
 </div>
 <br/>
 
-<div align="center" style="font-weight: 800; font-size: 135px;">
+<div align="center" style="font-weight: 800; font-size: 3rem; margin: 20px 0;">
   🏆 Most Used Languages 🏆
 </div>
 <div align="center">
