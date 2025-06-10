@@ -1,7 +1,7 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-bottom: 40px;">
-  <img src="https://github.com/user-attachments/assets/7985261a-cb22-4b6e-8837-594ff9289a38" alt="We are team OnRoad!" width="150" style="border-radius: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+  <img src="https://github.com/user-attachments/assets/7985261a-cb22-4b6e-8837-594ff9289a38"" width="150" style="border-radius: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
-    We are <span style="color: #f57c00;">team OnRoad!</span>
+  <span style="color: #f57c00;">team OnRoad!</span>
   </h1>
 </div>
 <br/>
@@ -20,17 +20,19 @@
 
 | Name / ID | role | GitHub Stats |
 |-----------|-------------|--------------|
-| <img src="https://avatars.githubusercontent.com/u/83055772?v=4&s=72" width="72" height="72" style="border-radius:50%" alt="Hoooouuuuu" /> <br> [Hoooouuuuu](https://github.com/Hoooouuuuu) | 로그인<br>회원가입<br>실시간 버스<br>교통사고 통계 시각화 | ![Hoooouuuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoooouuuuu&show_icons=true&theme=github_dark) |
-| <img src="https://avatars.githubusercontent.com/u/128485080?v=4&s=72" width="72" height="72" style="border-radius:50%" alt="noah-escape" /> <br> [noah-escape](https://github.com/noah-escape) | CCTV<br>도로 돌발 이벤트<br>VSL(가변 속도 전광판) | ![noah-escape's GitHub stats](https://github-readme-stats.vercel.app/api?username=noah-escape&show_icons=true&theme=github_dark) |
-| <img src="https://avatars.githubusercontent.com/u/110499677?v=4&s=72" width="72" height="72" style="border-radius:50%" alt="dahyeon6433" /> <br> [dahyeon6433](https://github.com/dahyeon6433) | 프론트 UI 디자인<br>게시판<br>주차장<br>날씨 | ![dahyeon6433's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahyeon6433&show_icons=true&theme=github_dark) |
-| <img src="https://avatars.githubusercontent.com/u/126768287?v=4&s=72" width="72" height="72" style="border-radius:50%" alt="HONGHONGPYO" /> <br> [HONGHONGPYO](https://github.com/HONGHONGPYO) | 길찾기<br>자전거<br>지하철<br>뉴스 크롤링 (Python) | ![HONGHONGPYO's GitHub stats](https://github-readme-stats.vercel.app/api?username=HONGHONGPYO&show_icons=true&theme=github_dark) |
+| <div align="center"><img src="https://avatars.githubusercontent.com/u/83055772?v=4&s=72" width="72" height="72" style="border-radius:50%" alt="Hoooouuuuu" /><br><a href="https://github.com/Hoooouuuuu">Hoooouuuuu</a></div> | 로그인<br>회원가입<br>실시간 버스<br>교통사고 통계 시각화 | <div align="center">![Hoooouuuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoooouuuuu&show_icons=true&theme=github_dark)</div> |
+| <div align="center"><img src="https://avatars.githubusercontent.com/u/128485080?v=4&s=72" width="72" height="72" style="border-radius:50%" alt="noah-escape" /><br><a href="https://github.com/noah-escape">noah-escape</a></div> | CCTV<br>도로 돌발 이벤트<br>VSL(가변 속도 전광판) | <div align="center">![noah-escape's GitHub stats](https://github-readme-stats.vercel.app/api?username=noah-escape&show_icons=true&theme=github_dark)</div> |
+| <div align="center"><img src="https://avatars.githubusercontent.com/u/110499677?v=4&s=72" width="72" height="72" style="border-radius:50%" alt="dahyeon6433" /><br><a href="https://github.com/dahyeon6433">dahyeon6433</a></div> | 프론트 UI 디자인<br>게시판<br>주차장<br>날씨 | <div align="center">![dahyeon6433's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahyeon6433&show_icons=true&theme=github_dark)</div> |
+| <div align="center"><img src="https://avatars.githubusercontent.com/u/126768287?v=4&s=72" width="72" height="72" style="border-radius:50%" alt="HONGHONGPYO" /><br><a href="https://github.com/HONGHONGPYO">HONGHONGPYO</a></div> | 길찾기<br>자전거<br>지하철<br>뉴스 크롤링 (Python) | <div align="center">![HONGHONGPYO's GitHub stats](https://github-readme-stats.vercel.app/api?username=HONGHONGPYO&show_icons=true&theme=github_dark)</div> |
 </div>
 
 <br/>
 
-## 🔧 기술 스택 🔧
+<div align="center">
 
-### 💻 Backend
+## 🔧 기술 스택 🔧 
+
+### 💻 Backend 💻
 
 <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" width="150" />
@@ -56,7 +58,7 @@
 
 ---
 
-### 🛢️ Database
+### 🛢️ Database 🛢️
 
 <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" width="150" />
@@ -70,7 +72,7 @@
 
 ---
 
-### 🌐 Frontend
+### 🌐 Frontend 🌐
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" width="150" />
@@ -96,7 +98,7 @@
 
 ---
 
-### 🗺️ 외부 API 연동
+### 🗺️ 외부 API 연동 🗺️
 
 <a href="https://data.seoul.go.kr/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Seoul_Bus-0099FF?style=flat-square&logo=bus&logoColor=white" alt="Seoul Bus" width="150" />
@@ -128,26 +130,12 @@
 
 ---
 
-### ⚙️ 환경 및 시스템 구성
+</div>
 
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" width="150" />
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" width="150" />
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" width="150" />
-</a>
-<a href="#" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/.env-F6E05E?style=flat-square&logo=docker&logoColor=black" alt=".env" width="150" />
-</a>
-<a href="#" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/application.properties-007ACC?style=flat-square&logo=microsoftazure&logoColor=white" alt="application.properties" width="150" />
-</a>
----
+### 시연 영상
 
-## 🤝 팀 협업
-
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://notion.so/YOUR_NOTION)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/YOUR_CHANNEL)
+<div align="center">
+  <a href="https://youtube.com/YOUR_CHANNEL" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" width="180" />
+  </a>
+</div>
