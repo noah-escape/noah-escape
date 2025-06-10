@@ -6,7 +6,7 @@
 </div>
 <br/>
 
-<div align="center" style="font-weight: 800; font-size: 3rem; margin: 20px 0;">
+<div align="center" style="font-weight: 800; font-size: 3rem; margin: 0;">
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
   🏆 Most Used Languages 🏆
   </h1>
@@ -20,7 +20,7 @@
 </div>
 
 <br/>
-<div align="center" style="font-weight: 800; font-size: 3rem; margin: 20px 0;">
+<div align="center" style="font-weight: 800; font-size: 3rem; margin: 0;">
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
   👥 팀원별 GitHub Stats 👥
   </h1>
@@ -45,7 +45,7 @@
 
 <br/>
 
-<div align="center" style="font-weight: 800; font-size: 3rem; margin: 20px 0;">
+<div align="center" style="font-weight: 800; font-size: 3rem; margin: 0;">
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
 <h3 align="center">💻 Backend 💻
   </h1>
@@ -76,7 +76,7 @@
   </a>
 </p>
     
-<div align="center" style="font-weight: 800; font-size: 3rem; margin: 20px 0;">
+<div align="center" style="font-weight: 800; font-size: 3rem; margin: 0;">
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
 <h3 align="center">🌐 Frontend 🌐
   </h1>
@@ -106,7 +106,7 @@
     <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" height="40" />
   </a>
 </p>
-<div align="center" style="font-weight: 800; font-size: 3rem; margin: 20px 0;">
+<div align="center" style="font-weight: 800; font-size: 3rem; margin: 0;">
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
 <h3 align="center">🛢️ Database 🛢️
   </h1>
@@ -123,7 +123,7 @@
   </a>
 </p>
     
-<div align="center" style="font-weight: 800; font-size: 3rem; margin: 20px 0;">
+<div align="center" style="font-weight: 800; font-size: 3rem; margin: 0;">
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
 <h3 align="center">🗺️ 외부 API 연동 🗺️
   </h1>
@@ -162,7 +162,7 @@
   </a>
 </p>
 
-<div align="center" style="font-weight: 800; font-size: 3rem; margin: 20px 0;">
+<div align="center" style="font-weight: 800; font-size: 3rem; margin: 0;">
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
 <h3 align="center"> 🎤 프로젝트 소개 & 시연 영상 & 🎥
   </h1>
