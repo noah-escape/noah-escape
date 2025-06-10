@@ -69,7 +69,7 @@
 </p>
 
 <h3 align="center">🌐 Frontend 🌐</h3>
-<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px; flex-wrap: wrap; max-width: 700px; margin-left: auto; margin-right: auto;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="40" />
   </a>
@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="40" />
   </a>
 </div>
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; max-width: 700px; margin-left: auto; margin-right: auto;">
   <a href="https://navermaps.github.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Naver_Maps-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Maps" height="40" />
   </a>
@@ -96,7 +96,7 @@
 </div>
 
 <h3 align="center">🗺️ 외부 API 연동 🗺️</h3>
-<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px; flex-wrap: wrap; max-width: 700px; margin-left: auto; margin-right: auto;">
   <a href="https://data.seoul.go.kr/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Seoul_Bus-0099FF?style=for-the-badge&logo=bus&logoColor=white" alt="Seoul Bus" height="40" />
   </a>
@@ -110,7 +110,7 @@
     <img src="https://img.shields.io/badge/Parking_API-008080?style=for-the-badge&logo=parking&logoColor=white" alt="Parking API" height="40" />
   </a>
 </div>
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; max-width: 700px; margin-left: auto; margin-right: auto;">
   <a href="#" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/ITS_API-FF6F61?style=for-the-badge&logo=car&logoColor=white" alt="ITS API" height="40" />
   </a>
