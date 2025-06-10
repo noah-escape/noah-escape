@@ -29,111 +29,113 @@
 <br/>
 
 <div align="center">
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
 
-  <div style="flex: 1; min-width: 200px; margin: 10px;">
-    <h3 align="center">💻 Backend 💻</h3>
-    <div align="center">
-      <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white&height=30" alt="Java" />
-      </a>
-      <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white&height=30" alt="Spring Boot" />
-      </a>
-      <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&height=30" alt="Python" />
-      </a>
-      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white&height=30" alt="Flask" />
-      </a>
-      <a href="https://oauth.net/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/OAuth-000000?style=flat-square&logo=oauth&logoColor=white&height=30" alt="OAuth" />
-      </a>
-      <a href="https://mail.google.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&height=30" alt="Gmail" />
-      </a>
-      <a href="https://restfulapi.net/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/REST_API-61DAFB?style=flat-square&logo=rest&logoColor=black&height=30" alt="REST API" />
-      </a>
+    <div style="flex: 1; min-width: 200px; margin: 10px;">
+      <h3 align="center">💻 Backend 💻</h3>
+      <div align="center">
+        <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white&height=30" alt="Java" />
+        </a>
+        <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white&height=30" alt="Spring Boot" />
+        </a>
+        <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&height=30" alt="Python" />
+        </a>
+        <a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white&height=30" alt="Flask" />
+        </a>
+        <a href="https://oauth.net/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/OAuth-000000?style=flat-square&logo=oauth&logoColor=white&height=30" alt="OAuth" />
+        </a>
+        <a href="https://mail.google.com/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&height=30" alt="Gmail" />
+        </a>
+        <a href="https://restfulapi.net/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/REST_API-61DAFB?style=flat-square&logo=rest&logoColor=black&height=30" alt="REST API" />
+        </a>
+      </div>
     </div>
-  </div>
 
-  <div style="flex: 1; min-width: 200px; margin: 10px;">
-    <h3 align="center">🛢️ Database 🛢️</h3>
-    <div align="center">
-      <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&height=30" alt="MySQL" />
-      </a>
-      <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white&height=30" alt="JDBC" />
-      </a>
-      <a href="https://pymysql.readthedocs.io/en/latest/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/PyMySQL-3776AB?style=flat-square&logo=python&logoColor=white&height=30" alt="PyMySQL" />
-      </a>
+    <div style="flex: 1; min-width: 200px; margin: 10px;">
+      <h3 align="center">🛢️ Database 🛢️</h3>
+      <div align="center">
+        <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&height=30" alt="MySQL" />
+        </a>
+        <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white&height=30" alt="JDBC" />
+        </a>
+        <a href="https://pymysql.readthedocs.io/en/latest/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/PyMySQL-3776AB?style=flat-square&logo=python&logoColor=white&height=30" alt="PyMySQL" />
+        </a>
+      </div>
     </div>
-  </div>
 
-  <div style="flex: 1; min-width: 200px; margin: 10px;">
-    <h3 align="center">🌐 Frontend 🌐</h3>
-    <div align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&height=30" alt="HTML5" />
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&height=30" alt="CSS3" />
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&height=30" alt="JavaScript" />
-      </a>
-      <a href="https://navermaps.github.io/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Naver_Maps-03C75A?style=flat-square&logo=naver&logoColor=white&height=30" alt="Naver Maps" />
-      </a>
-      <a href="https://apis.map.kakao.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Kakao_Map-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black&height=30" alt="Kakao Map" />
-      </a>
-      <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white&height=30" alt="Matplotlib" />
-      </a>
-      <a href="https://plotly.com/javascript/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white&height=30" alt="Plotly" />
-      </a>
+    <div style="flex: 1; min-width: 200px; margin: 10px;">
+      <h3 align="center">🌐 Frontend 🌐</h3>
+      <div align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&height=30" alt="HTML5" />
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&height=30" alt="CSS3" />
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&height=30" alt="JavaScript" />
+        </a>
+        <a href="https://navermaps.github.io/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Naver_Maps-03C75A?style=flat-square&logo=naver&logoColor=white&height=30" alt="Naver Maps" />
+        </a>
+        <a href="https://apis.map.kakao.com/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Kakao_Map-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black&height=30" alt="Kakao Map" />
+        </a>
+        <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white&height=30" alt="Matplotlib" />
+        </a>
+        <a href="https://plotly.com/javascript/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white&height=30" alt="Plotly" />
+        </a>
+      </div>
     </div>
-  </div>
 
-  <div style="flex: 1; min-width: 200px; margin: 10px;">
-    <h3 align="center">🗺️ 외부 API 연동 🗺️</h3>
-    <div align="center">
-      <a href="https://data.seoul.go.kr/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Seoul_Bus-0099FF?style=flat-square&logo=bus&logoColor=white&height=30" alt="Seoul Bus" />
-      </a>
-      <a href="https://data.seoul.go.kr/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Seoul_Subway-FFD400?style=flat-square&logo=subway&logoColor=black&height=30" alt="Seoul Subway" />
-      </a>
-      <a href="https://www.bikeseoul.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Dareungi_Bike-7BC043?style=flat-square&logo=bicycle&logoColor=white&height=30" alt="Dareungi Bike" />
-      </a>
-      <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Parking_API-008080?style=flat-square&logo=parking&logoColor=white&height=30" alt="Parking API" />
-      </a>
-      <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/ITS_API-FF6F61?style=flat-square&logo=car&logoColor=white&height=30" alt="ITS API" />
-      </a>
-      <a href="https://navermaps.github.io/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Naver_Maps-03C75A?style=flat-square&logo=naver&logoColor=white&height=30" alt="Naver Maps" />
-      </a>
-      <a href="https://apis.map.kakao.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Kakao_Maps-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black&height=30" alt="Kakao Maps" />
-      </a>
-      <a href="https://www.kma.go.kr/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/KMA_Weather-004D99?style=flat-square&logo=weather&logoColor=white&height=30" alt="KMA Weather" />
-      </a>
-      <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/RSS_News-FF6600?style=flat-square&logo=rss&logoColor=white&height=30" alt="RSS News" />
-      </a>
+    <div style="flex: 1; min-width: 200px; margin: 10px;">
+      <h3 align="center">🗺️ 외부 API 연동 🗺️</h3>
+      <div align="center">
+        <a href="https://data.seoul.go.kr/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Seoul_Bus-0099FF?style=flat-square&logo=bus&logoColor=white&height=30" alt="Seoul Bus" />
+        </a>
+        <a href="https://data.seoul.go.kr/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Seoul_Subway-FFD400?style=flat-square&logo=subway&logoColor=black&height=30" alt="Seoul Subway" />
+        </a>
+        <a href="https://www.bikeseoul.com/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Dareungi_Bike-7BC043?style=flat-square&logo=bicycle&logoColor=white&height=30" alt="Dareungi Bike" />
+        </a>
+        <a href="#" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Parking_API-008080?style=flat-square&logo=parking&logoColor=white&height=30" alt="Parking API" />
+        </a>
+        <a href="#" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/ITS_API-FF6F61?style=flat-square&logo=car&logoColor=white&height=30" alt="ITS API" />
+        </a>
+        <a href="https://navermaps.github.io/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Naver_Maps-03C75A?style=flat-square&logo=naver&logoColor=white&height=30" alt="Naver Maps" />
+        </a>
+        <a href="https://apis.map.kakao.com/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Kakao_Maps-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black&height=30" alt="Kakao Maps" />
+        </a>
+        <a href="https://www.kma.go.kr/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/KMA_Weather-004D99?style=flat-square&logo=weather&logoColor=white&height=30" alt="KMA Weather" />
+        </a>
+        <a href="#" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/RSS_News-FF6600?style=flat-square&logo=rss&logoColor=white&height=30" alt="RSS News" />
+        </a>
+      </div>
     </div>
-  </div>
 
+  </div>
 </div>
+
 
 
 ### 시연 영상
