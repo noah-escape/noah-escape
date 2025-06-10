@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center" style="font-weight: 800; font-size: 3rem; margin: 20px 0;">
-    <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
+  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
   🏆 Most Used Languages 🏆
   </h1>
 </div>
@@ -20,8 +20,11 @@
 </div>
 
 <br/>
-<h3 align="center">👥 팀원별 GitHub Stats 👥</h3>
-
+<div align="center" style="font-weight: 800; font-size: 3rem; margin: 20px 0;">
+  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
+  👥 팀원별 GitHub Stats 👥
+  </h1>
+</div>
 <p align="center" style="margin: 0 0 0 0;">
   <a href="https://github.com/Hoooouuuuu" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-right: 0;">
     <img src="https://github-readme-stats.vercel.app/api?username=Hoooouuuuu&show_icons=true&theme=dark" alt="Hoooouuuuu GitHub Stats" width="400" />
@@ -42,7 +45,11 @@
 
 <br/>
 
-<h3 align="center">💻 Backend 💻</h3>
+<div align="center" style="font-weight: 800; font-size: 3rem; margin: 20px 0;">
+  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
+<h3 align="center">💻 Backend 💻
+  </h1>
+</div>
 <p align="center">
   <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="40" />
@@ -68,8 +75,12 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40" />
   </a>
 </p>
-
-<h3 align="center">🌐 Frontend 🌐</h3>
+    
+<div align="center" style="font-weight: 800; font-size: 3rem; margin: 20px 0;">
+  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
+<h3 align="center">🌐 Frontend 🌐
+  </h1>
+</div>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="40" />
@@ -95,8 +106,11 @@
     <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" height="40" />
   </a>
 </p>
-
-<h3 align="center">🛢️ Database 🛢️</h3>
+<div align="center" style="font-weight: 800; font-size: 3rem; margin: 20px 0;">
+  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
+<h3 align="center">🛢️ Database 🛢️
+  </h1>
+</div>
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="40" />
@@ -108,8 +122,12 @@
     <img src="https://img.shields.io/badge/PyMySQL-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyMySQL" height="40" />
   </a>
 </p>
-
-<h3 align="center">🗺️ 외부 API 연동 🗺️</h3>
+    
+<div align="center" style="font-weight: 800; font-size: 3rem; margin: 20px 0;">
+  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
+<h3 align="center">🗺️ 외부 API 연동 🗺️
+  </h1>
+</div>
 <p align="center">
   <a href="https://data.seoul.go.kr/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Seoul_Bus-0099FF?style=for-the-badge&logo=bus&logoColor=white" alt="Seoul Bus" height="40" />
@@ -144,8 +162,11 @@
   </a>
 </p>
 
-
-<h3 align="center"> 🎤 프로젝트 소개 & 시연 영상 & 🎥 </h3>
+<div align="center" style="font-weight: 800; font-size: 3rem; margin: 20px 0;">
+  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
+<h3 align="center"> 🎤 프로젝트 소개 & 시연 영상 & 🎥
+  </h1>
+</div>
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://www.notion.so" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" width="175" />
