@@ -43,7 +43,7 @@
 
 <div align="center" style="font-weight: 800; font-size: 3rem; margin: 0;">
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
-<h3 align="center">💻 Backend 💻
+   💻 Backend 💻
   </h1>
 </div>
 <p align="center">
@@ -74,7 +74,7 @@
     
 <div align="center" style="font-weight: 800; font-size: 3rem; margin: 0;">
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
-<h3 align="center">🌐 Frontend 🌐
+   🌐 Frontend 🌐
   </h1>
 </div>
 <p align="center">
@@ -104,7 +104,7 @@
 </p>
 <div align="center" style="font-weight: 800; font-size: 3rem; margin: 0;">
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
-<h3 align="center">🛢️ Database 🛢️
+   🛢️ Database 🛢️
   </h1>
 </div>
 <p align="center">
@@ -121,7 +121,7 @@
     
 <div align="center" style="font-weight: 800; font-size: 3rem; margin: 0;">
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
-<h3 align="center">🗺️ 외부 API 연동 🗺️
+   🗺️ 외부 API 연동 🗺️
   </h1>
 </div>
 <p align="center">
@@ -160,7 +160,7 @@
 
 <div align="center" style="font-weight: 800; font-size: 3rem; margin: 0;">
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #1565c0; margin: 0;">
-<h3 align="center"> 🎤 프로젝트 소개 & 시연 영상 & 🎥
+   🎤 프로젝트 소개 & 시연 영상 & 🎥
   </h1>
 </div>
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
