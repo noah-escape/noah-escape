@@ -88,15 +88,19 @@
 
 <h3 align="center">🛢️ Database 🛢️</h3>
 <div style="text-align:center; margin-bottom: 20px;">
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="40" />
-  </a>
-  <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" alt="JDBC" height="40" />
-  </a>
-  <a href="https://pymysql.readthedocs.io/en/latest/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/PyMySQL-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyMySQL" height="40" />
-  </a>
+  <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap; max-width:700px; margin:0 auto;">
+    <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="40" />
+    </a>
+    <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" alt="JDBC" height="40" />
+    </a>
+  </div>
+  <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap; max-width:700px; margin:10px auto 0;">
+    <a href="https://pymysql.readthedocs.io/en/latest/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/PyMySQL-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyMySQL" height="40" />
+    </a>
+  </div>
 </div>
 
 <h3 align="center">🗺️ 외부 API 연동 🗺️</h3>
