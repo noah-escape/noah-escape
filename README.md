@@ -92,8 +92,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noah-escape&show_icons=true&theme=gruvbox_light" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noah-escape&layout=compact&theme=gruvbox_light" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=noah-escape&show_icons=true&theme=gruvbox_light" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noah-escape&layout=compact&theme=gruvbox_light" height="130"/>
 </p>
 
 ---
